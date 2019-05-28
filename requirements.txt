@@ -1,0 +1,16 @@
+apptools==4.4.0
+configobj==5.0.6
+cycler==0.10.0
+envisage==4.7.1
+kiwisolver==1.0.1
+matplotlib==3.0.2
+mayavi==4.6.2
+numpy==1.16.1
+pyface==6.0.0
+Pygments==2.3.1
+pyparsing==2.3.1
+python-dateutil==2.8.0
+six==1.12.0
+traits==5.0.0
+traitsui==6.0.0
+vtk==8.1.2
